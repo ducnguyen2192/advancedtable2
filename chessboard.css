@@ -1,0 +1,31 @@
+.container{
+    width: 1024px;
+    height: 1024px;
+}
+
+.Table {
+    margin-right: 0px;
+    margin-left: auto;
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+
+}
+
+.WhiteBlock{
+    background-color: white;
+}
+
+.BlackBlock{
+    background-color: black;
+}
+
+.TopNum{
+    vertical-align: bottom;
+    font-size: 30px;
+}
+
+.SideNum{
+    text-align: right;
+    font-size: 30px;
+}

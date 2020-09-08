@@ -1,0 +1,73 @@
+.container-fluid{
+    width: 900px;
+    height: 900px;
+}
+
+.Title {
+    margin: auto;
+    width: 65%;
+    color: blue;
+    font-weight: bold;
+}
+
+.TopTable {
+    width: 50%;
+    height: 4%;
+    table-layout: fixed ;
+}
+
+
+.MidTable {
+    width: 50%;
+    height: 4%;
+    table-layout: fixed ;
+    text-align: center;
+}
+
+.BottomTable {
+    width: 50%;
+    height: 5%;
+    text-align: center;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: lightgray;
+    table-layout: fixed ;
+    border-collapse: collapse;
+}
+
+
+td{
+    height: 15%;
+    border-style: ridge;
+    border-width: 3px;
+    border-color: lightgray;
+    border-collapse: collapse;
+}
+.thSecondRow{
+    font-weight: normal;
+}
+
+.FirstRow {
+    color: white;
+}
+
+#redText {
+    color: red;
+}
+#blueText{
+    color: blue;
+}
+#blackText {
+    color: black;
+}
+
+#red{
+    background-color: red;
+}
+
+#gold{
+    background-color: gold;
+}
+#blue{
+    background-color: blue;
+}
